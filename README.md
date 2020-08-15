@@ -1,5 +1,11 @@
 # Url interpolator
 
+# Install
+
+```
+npm i url-interpolator
+```
+
 # Use
 
 ## Simple
